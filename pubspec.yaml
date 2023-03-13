@@ -1,0 +1,56 @@
+name: valorant
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  audioplayers: ^0.20.1
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  flutter_screenutil: ^5.6.1
+  flutter_svg: ^2.0.2
+  get: ^4.6.5
+  get_it: ^7.2.0
+  http: ^0.13.5
+  google_nav_bar: ^5.0.6
+  bottom_navy_bar: ^6.0.0
+  flutter_launcher_icons: ^0.12.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  image_path: "assets/images/png/logo.png"
+  adaptive_icon_foreground: "assets/images/png/ic_launcher_foreground.png"    
+  adaptive_icon_background: "#ffffff"    
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/png/
+    - assets/images/svg/
+
+  fonts:
+    - family: Valorant 
+      fonts:
+        - asset: assets/fonts/Valorant Font.ttf
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+ 
