@@ -30,8 +30,8 @@
 - bottom_navy_bar
 - flutter_bloc
 
-## Movies Video
-- [Movies App video](https://drive.google.com/file/d/1FpEbdohTI2rA4QPMaPElAq61LkDulAa8/view?usp=share_link)
+## Valorant Video
+- [Valorant App video](https://drive.google.com/file/d/1FpEbdohTI2rA4QPMaPElAq61LkDulAa8/view?usp=share_link)
 
 ## Screen Shots.
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229367887-228dc7a9-ca1a-4279-a202-095ec1a03f8c.jpg">
