@@ -30,6 +30,9 @@
 - bottom_navy_bar
 - flutter_bloc
 
+## Movies Video
+- [Movies App video](https://drive.google.com/file/d/1FpEbdohTI2rA4QPMaPElAq61LkDulAa8/view?usp=share_link)
+
 ## Screen Shots.
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229367887-228dc7a9-ca1a-4279-a202-095ec1a03f8c.jpg">
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229367904-231fd555-6330-4288-8d61-6997f6981c19.jpg">
